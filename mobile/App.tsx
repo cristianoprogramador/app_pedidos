@@ -3,6 +3,8 @@ import { StatusBar } from "expo-status-bar";
 import { StyleSheet, View } from "react-native";
 import { Text } from "./src/components/Text";
 import { Main } from "./src/Main";
+import "intl";
+import "intl/locale-data/jsonp/pt-BR";
 
 export default function App() {
   const [isFontsLoaded] = useFonts({
