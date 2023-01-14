@@ -200,8 +200,3 @@ My name is Cristiano, I'm a frontend developer.
 
 ### to [Mateus Silva](https://br.linkedin.com/in/mateusilva/)
 
-<a href="https://br.linkedin.com/in/mateusilva/" target="_blank">
-  alt="Time Rocketseat" border-radius='120px'>
-</a>
-
-E sua equipe por terem proporcionado esse evento de muita qualidade e aprendizado.
